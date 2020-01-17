@@ -1,0 +1,73 @@
+.go1 {
+  position: absolute;
+  top: 1850px;
+  margin-left: 20%;
+}
+
+.textMove1 {
+  position: absolute;
+  top: 0%;
+  right: -20%;
+  margin-left: -60%;
+  width: 60%;
+}
+
+.go2 {
+  position: absolute;
+  top: 2180px;
+  margin-left: 45%;
+}
+
+.textMove2 {
+  position: absolute;
+  top: 15%;
+  right: 80%;
+  margin-left: 10%;
+  width: 60%;
+}
+
+.go3 {
+  position: absolute;
+  top: 2700px;
+  margin-left: 25%;
+}
+
+.textMove3 {
+  position: absolute;
+  top: 0%;
+  right: -5%;
+  margin-left: -10%;
+  width: 60%;
+}
+
+.go4 {
+  position: absolute;
+  top: 3080px;
+  margin-left: 50%;
+}
+
+.textMove4 {
+  position: absolute;
+  top: 10%;
+  right: 90%;
+  margin-left: 10%;
+  width: 60%;
+}
+
+.divFundo {
+  position: relative;
+  width: 100%;
+}
+
+.sem {
+  border: none;
+  background-color: none; 
+}
+
+.pula {
+  transition: 600ms;
+}
+.pula:hover {
+  transition: 600ms;
+  transform: scale(1.1);
+}
